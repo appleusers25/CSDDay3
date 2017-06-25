@@ -7,6 +7,6 @@ import cucumber.api.junit.Cucumber;
 @RunWith(testrunner.class)
 @CalculatorOptions(features="src/test/resources")
 
-public class testrunners {
+public class testrunner {
 
 }
